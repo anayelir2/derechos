@@ -1,0 +1,67 @@
+body{
+    background:gray;
+}
+
+nav li{
+    display: inline-block;
+    margin:10px;
+    padding:0px 120px;
+    color: black;
+}
+
+ul{
+    color: white;
+    text-align: justify;
+}
+
+div{
+    position: relative;
+    width: 48%;
+    height: 600px;
+    display: inline-block;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color:white;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+h2{
+    font-size: 30px;
+    background:pink;
+    border-radius: 10px;
+
+}
+
+p{
+    color:white;
+
+}
+
+img{
+    width: 80%;
+    margin:10px auto;
+	display:block;
+}
+
+aside{
+    width: 48%;
+    height: 600px;
+    position: relative;
+    float: right;
+}
+
+footer{
+    background:black;
+    height: 50px;
+}
+
+footer li{
+    color:white;
+    display: inline;
+    margin:145px;
+
+}
